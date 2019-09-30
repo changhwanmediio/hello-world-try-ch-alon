@@ -1,2 +1,8 @@
 # hello-world-try-ch-alon
-try-repository-without-initialization
+
+
+Hello
+
+This is first time make COMMIT in GitHub.
+
+-Changhwan
